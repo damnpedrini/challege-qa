@@ -1,0 +1,22 @@
+{
+  "name": "qa-challenge",
+  "version": "1.0.0",
+  "description": "## Introdução",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuco/qa-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niuco/qa-challenge/issues"
+  },
+  "homepage": "https://github.com/niuco/qa-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18"
+  }
+}
