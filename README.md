@@ -2,7 +2,6 @@
 
 ## Introdução
 
-Este repositório contém dois testes práticos para a vaga de **QA Engineer**. O objetivo é validar suas habilidades de automação de testes com:
 1. **Validação de fluxos de UI** com **Playwright**.
 2. **Interação e validação de APIs** com **Playwright** e **Node.js**.
 
